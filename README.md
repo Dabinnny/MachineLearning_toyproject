@@ -1,2 +1,2 @@
-# MachineLearning_toyproject
-머신러닝에 대해 공부하고 기록합니다.
+# ToyProject
+데이터 분석, ML, DL을 공부하고 실습한 내용을 기록합니다.
